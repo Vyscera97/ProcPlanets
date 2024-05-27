@@ -1,0 +1,30 @@
+# Ignore binary files
+*.dll
+*.exe
+*.lib
+*.obj
+*.pdb
+
+# Ignore build folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore user-specific files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore Visual Studio folder
+.vs/
